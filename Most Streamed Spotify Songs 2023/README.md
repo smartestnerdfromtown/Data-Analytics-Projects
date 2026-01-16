@@ -3,6 +3,9 @@ source: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023!
 Audio feature distributions
 ![audio_feature_distributions](figures/audio_feature_distributions.png)
 
+Bpm distribution
+![bpm_distribution](figures/bpm_distribution.png)
+
 Correlation of streams with playlist features
 ![correlation_of_streams_with_playlist_features](figures/correlation_of_streams_with_playlist_features.png)
 
