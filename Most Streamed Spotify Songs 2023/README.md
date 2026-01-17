@@ -32,3 +32,6 @@ Number of tracks in charts by platform
 
 Top10 streams correlations
 ![top10_streams_correlations](figures/top10_streams_correlations.png)
+
+Tracks released per year
+![tracks_released_per_year](figures/tracks_released_per_year.png)
