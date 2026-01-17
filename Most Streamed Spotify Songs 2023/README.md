@@ -3,6 +3,9 @@ source: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023!
 Audio feature distributions
 ![audio_feature_distributions](figures/audio_feature_distributions.png)
 
+Avg streams per month
+![avg_streams_per_month](figures/avg_streams_per_month.png)
+
 Bpm distribution
 ![bpm_distribution](figures/bpm_distribution.png)
 
@@ -27,11 +30,17 @@ In spotify playlists distribution and vs streams
 Mean streams by artist count
 ![mean_streams_by_artist_count](figures/mean_streams_by_artist_count.png)
 
+Monthly tracks and streams
+![monthly_tracks_and_streams](figures/monthly_tracks_and_streams.png)
+
 Number of tracks in charts by platform
 ![number_of_tracks_in_charts_by_platform](figures/number_of_tracks_in_charts_by_platform.png)
 
 Top10 streams correlations
 ![top10_streams_correlations](figures/top10_streams_correlations.png)
+
+Tracks per month
+![tracks_per_month](figures/tracks_per_month.png)
 
 Tracks released per year
 ![tracks_released_per_year](figures/tracks_released_per_year.png)
