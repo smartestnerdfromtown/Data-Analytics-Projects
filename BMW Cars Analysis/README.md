@@ -1,5 +1,8 @@
 source: https://www.kaggle.com/datasets/thedrzee/bmw-carsdataset
 
+Cars by fuel type
+![cars_by_fuel_type](figures/cars_by_fuel_type.png)
+
 Mean price by mileage category
 ![mean_price_by_mileage_category](figures/mean_price_by_mileage_category.png)
 
@@ -15,8 +18,17 @@ Mileage vs price
 Mileage vs year
 ![mileage_vs_year](figures/mileage_vs_year.png)
 
+Mpg distribution
+![mpg_distribution](figures/mpg_distribution.png)
+
+Mpg vs price
+![mpg_vs_price](figures/mpg_vs_price.png)
+
 Price distribution
 ![price_distribution](figures/price_distribution.png)
+
+Price distribution by fuel type
+![price_distribution_by_fuel_type](figures/price_distribution_by_fuel_type.png)
 
 Price distribution by transmission type
 ![price_distribution_by_transmission_type](figures/price_distribution_by_transmission_type.png)
