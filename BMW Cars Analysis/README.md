@@ -3,6 +3,12 @@ source: https://www.kaggle.com/datasets/thedrzee/bmw-carsdataset
 Cars by fuel type
 ![cars_by_fuel_type](figures/cars_by_fuel_type.png)
 
+Engine size distribution
+![engine_size_distribution](figures/engine_size_distribution.png)
+
+Engine size vs price
+![engine_size_vs_price](figures/engine_size_vs_price.png)
+
 Mean price by mileage category
 ![mean_price_by_mileage_category](figures/mean_price_by_mileage_category.png)
 
